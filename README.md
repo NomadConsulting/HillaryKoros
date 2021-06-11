@@ -3,7 +3,7 @@
 [![GitHub Badge](https://img.shields.io/github/followers/HillaryKoros?style=social)](https://github.com/HillaryKoros?tab=followers)
 [![Twitter Badge](https://img.shields.io/twitter/follow/kipngenokoros?style=social)](https://twitter.com/kipngeno_koros)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/hillarykoros/)
-[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://hillarykoros.github.io/docs/)
+[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://hillarykoros.github.io/docs/Resume.docx)
 [![Donate Badge](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg)](https://www.buymeacoffee.com/hillarykoros)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=HillaryKoros.HillaryKoros)
 
