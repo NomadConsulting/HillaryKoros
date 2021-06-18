@@ -1,6 +1,6 @@
 ##  Koros Hillary
 
-[![GitHub Badge](https://img.shields.io/github/followers/HillaryKoros?style=social)](https://github.com/HillaryKoros?tab=followers)
+
 [![Twitter Badge](https://img.shields.io/twitter/follow/kipngeno_koros?style=social)](https://twitter.com/kipngeno_koros)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/hillarykoros/)
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://hillarykoros.github.io/docs/Resume.docx)
@@ -15,6 +15,7 @@ I am a Geospatial Data Science Intern in the [Department of Lands,Housing and Ur
 - **Python Data Analysis:** 
 - **ArcGIS :** 
 - **Google Earth Engine:** 
+- **Earth Observation:**
 - **PostgresSQL :** 
 ---
 
