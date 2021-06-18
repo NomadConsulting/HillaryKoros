@@ -1,4 +1,3 @@
-
 [![Twitter Badge](https://img.shields.io/twitter/follow/kipngeno_koros?style=social)](https://twitter.com/kipngeno_koros)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/hillarykoros/)
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://hillarykoros.github.io/docs/Resume.docx)
