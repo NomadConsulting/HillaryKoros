@@ -8,7 +8,7 @@ My name is Koros Hillary  and I am  currently a GIS and Remote Sensing  Assistan
 
 ---
 
-### Regarding my technical skills, I am a constant learner. Two years ago I wasn't able to create this portfolio but here we are. 
+## Regarding my technical skills, I am a constant learner. Two years ago I wasn't able to create this portfolio but here we are. 
 At the moment I focus on:
 - **Google Earth Engine** 
 - **ESRI: ArcGIS PRO, Online and ArcPy** 
