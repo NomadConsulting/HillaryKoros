@@ -8,12 +8,13 @@ My name is Koros Hillary  and I am  currently a GIS and Remote Sensing  Assistan
 
 ---
 
-### Open-source Projects
-- **Python Data Analysis:** 
-- **ArcGIS :** 
-- **Google Earth Engine:** 
-- **Earth Observation:**
-- **PostgresSQL :** 
+### Regarding my technical skills, I am a constant learner. Two years ago I wasn't able to create this portfolio but here we are. 
+##At the moment I focus on:
+- **Google Earth Engine** 
+- **ESRI: ArcGIS PRO, Online and ArcPy** 
+- **QGIS, PostGIS and PyQGIS** 
+- **GIS Programming:Web Mapping**
+- **Python: Numpy, Pandas, Scikit-learn and Keras** 
 ---
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=HillaryKoros&show_icons=true)
