@@ -1,4 +1,5 @@
 [![Twitter Badge](https://img.shields.io/twitter/follow/kipngeno_koros?style=social)](https://twitter.com/kipngeno_koros)
+[![GitHub Badge](https://img.shields.io/github/followers/HillaryKoros?style=social)](https://github.com/HillaryKoros?tab=followers)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/hillarykoros/)
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://hillarykoros.github.io/docs/Resume.docx)
 [![Donate Badge](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg)](https://www.buymeacoffee.com/hillarykoros)
