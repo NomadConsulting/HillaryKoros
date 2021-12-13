@@ -11,9 +11,9 @@ My name is Koros Hillary  and I am  currently an Intern  in the  [Department of 
 ## Regarding my technical skills, I am a constant learner and Technology Enthusiast. 
 At the moment I focus on:
 - **Remote Sensing :Google Earth Engine,geemap**  
-- **Spatial Databases:PostGIS ** 
+- **Spatial Databases:PostGIS** 
 - **Programming :Python and Javascript** 
-- - **Data Science and Machine Learning :Pandas,Numpy and Scikit-learn **
+- **Data Science and Machine Learning :Pandas,Numpy and Scikit-learn**
 ---
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=HillaryKoros&show_icons=true)
